@@ -1,4 +1,4 @@
-# TryHackMe--Nmap
+# TryHackMe--Nmap Quiz
 ![nmap](https://user-images.githubusercontent.com/52219676/87219391-391e4b80-c378-11ea-8675-be474497683e.png)
 
 Network scanning is an important thing to knows about victim or target, such as what kinds of services runs on the background from the target?, what kinds of open ports on the target?.
