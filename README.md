@@ -35,10 +35,12 @@ ANS: -sV
 
 # Question #6
 Most people like to see some output to know that their scan is actually doing things, what is the verbosity flag?
+
 ANS: -v
 
 # Question #7
 What about ‘very verbose’? (A personal favorite)
+
 ANS: -vv
 
 # Question #8
